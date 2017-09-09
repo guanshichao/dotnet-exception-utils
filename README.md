@@ -1,13 +1,9 @@
 # dotnet-exception-utils
 
-[![npm version](https://badge.fury.io/js/%40rotorz%2Fdotnet-exception-utils.svg)](https://badge.fury.io/js/%40rotorz%2Fdotnet-exception-utils)
-[![Dependency Status](https://david-dm.org/rotorz/dotnet-exception-utils.svg)](https://david-dm.org/rotorz/dotnet-exception-utils)
-[![devDependency Status](https://david-dm.org/rotorz/dotnet-exception-utils/dev-status.svg)](https://david-dm.org/rotorz/dotnet-exception-utils#info=devDependencies)
-
 Utility functionality for exceptions in .NET.
 
 ```sh
-$ npm install --save @rotorz/dotnet-exception-utils
+$ npm install --save rotorz/dotnet-exception-utils
 ```
 
 This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
