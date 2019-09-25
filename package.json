@@ -1,5 +1,5 @@
 {
-  "name": "@rotorz/dotnet-exception-utils",
+  "name": "com.guanshichao.dotnet-exception-utils",
   "version": "1.0.3",
   "description": "Utility functionality for exceptions in .NET.",
   "main": "index.js",
